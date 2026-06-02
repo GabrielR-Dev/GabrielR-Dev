@@ -60,7 +60,7 @@ Además, tengo conocimientos en **redes informáticas** (modelo OSI, direccionam
 
 - 📧 Email: gabrielomarrolon1996@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/gabrielomarrolon96/](https://www.linkedin.com/in/gabrielomarrolon96/)  
-- 🌐 Portfolio: *(en desarrollo)*
+- 🌐 Portfolio: [rogadev](https://rogadev.netlify.app)
 
 ---
 
